@@ -1,0 +1,31 @@
+div {
+    background-color: orangered;
+    margin: 2px;
+    height: 100px;
+    display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.section1 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}   
+
+.section2 {
+    display: flex;
+    justify-content: space-around;
+    align-content: stretch;
+}
+
+.section3 {
+    display: flex;
+    justify-content: center;
+}
+
+.section12 {
+    display: flex;
+    justify-content: center;
+}
