@@ -17,7 +17,7 @@ div {
 .section2 {
     display: flex;
     justify-content: space-around;
-    align-content: stretch;
+    /* align-content: stretch; */
 }
 
 .section3 {
