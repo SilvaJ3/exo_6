@@ -1,5 +1,5 @@
 div {
-    background-color: orangered;
+    background-color: chocolate;
     margin: 2px;
     height: 100px;
     display: flex;
@@ -8,19 +8,7 @@ div {
     justify-content: center;
 }
 
-.section1 {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-}   
-
-.section2 {
-    display: flex;
-    justify-content: space-around;
-    /* align-content: stretch; */
-}
-
-.section3 {
+.section {
     display: flex;
     justify-content: center;
 }
